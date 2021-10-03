@@ -4,10 +4,10 @@ A Full-Featured Financial Model using PowerBI: for decision-makers and biz folks
 
 ***Some Sample Images:*** 
 
-![](./imgs/financialmodel0.png)
+![](./imgs/financial_model0.png)
 
-![](./imgs/financialmodel1.png)
+![](./imgs/financial_model1.png)
 
-![](./imgs/financialmodel2.png)
+![](./imgs/financial_model2.png)
 
-![](./imgs/animation7.gif)
+![](./imgs/Animation7.gif)
